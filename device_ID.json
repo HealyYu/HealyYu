@@ -1,0 +1,8 @@
+{
+    "host_name": "cn-shanghai",
+    "product_ID": "65977b21387fa41cc89133e0",
+    "device_name": "65977b21387fa41cc89133e0_1122334455",
+    "device_secret": "d095e7dd1a3779312f63",
+    "system_version": "1.0.7",
+    "huawei_iot_server_uri": "66cdb864d3.st1.iotda-device.cn-east-3.myhuaweicloud.com"
+}

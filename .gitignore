@@ -1,0 +1,16 @@
+__pycache__/*
+example.db
+config.json
+build/*
+dist/*
+update/*
+old/*
+/test
+.vscode/*
+test.bin
+/device_ID.json
+download/test.txt
+test.exe
+**/__pycache__/**.pyc
+device.log
+log

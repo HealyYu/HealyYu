@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/">
+    <file>imgs/air.png</file>
+    <file>imgs/line_off.png</file>
+    <file>imgs/line_close.png</file>
+    <file>imgs/line_open.png</file>
+    <file>imgs/motor.png</file>
+    <file>imgs/1.png</file>
+    <file>imgs/2.png</file>
+    <file>imgs/3.png</file>
+    <file>imgs/4.png</file>
+    <file>imgs/5.png</file>
+    <file>imgs/6.png</file>
+    <file>imgs/7.png</file>
+    <file>imgs/8.png</file>
+    <file>imgs/btn_bg_1.png</file>
+    <file>imgs/btn_bg_2.png</file>
+    <file>imgs/btn_bg_3.png</file>
+    <file>imgs/btn_bg_4.png</file>
+    <file>imgs/btn_bg_5.png</file>
+    <file>imgs/btn_bg_6.png</file>
+    <file>imgs/btn_bg_7.png</file>
+  </qresource>
+</RCC>
